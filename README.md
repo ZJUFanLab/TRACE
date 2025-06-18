@@ -30,7 +30,7 @@ scikit-learn                 1.3.2
 
 ## Quick start
 
-Run `graphpreprocess.py` to generate the molecular graph data. The output will be saved to the path specified by `data_bin_dir` in your YAML configuration file.
+Run `graphpreprocess.py` to generate the molecular graph data. The output will be saved to the path specified by `data_bin_dir` in the YAML configuration file.
 
 ```bash
 >> python graphpreprocess.py --config_file configs/config_deepddi.yml
