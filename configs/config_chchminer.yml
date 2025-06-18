@@ -1,0 +1,36 @@
+## dataset
+data_dir: "data/chchminer/ChChMiner.csv"
+data_bin_dir: "data/chchminer/graph-DDI-chchminer.pth"
+id_to_index_dir: "data/chchminer/drug_list_miner.csv"
+best_model_dir: "data/chchminer/best_model_chchminer.pth"
+## logger
+
+experiment_name: "chchminer"
+
+## model
+in_feats: 196
+in_edge_feats: 6
+hidden_size: 128
+num_layers: 8
+num_class: 2
+mlp_activation: silu
+mlp_dropout_rate: 0.5
+mlp_num_layers: 2
+mlp_batch_norm: false
+mlp_hidden_size: 2048
+short_cut: false
+
+## train
+seed: 123
+num_epochs: 5000
+batch_size: 512
+learning_rate: 0.001
+checkpoint_dir: "./output/"
+patience: 20
+early_stop_criteria: "macro avg_f1-score"
+early_stop_mode: "higher"
+gpu: true
+## optimizer
+criterion: BCELoss
+class_weight_dir: null
+label_smoothing: 0.1
