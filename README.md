@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/version-1.0.0-blue)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]([https://github.com/Fangyin1994/KCL/blob/main/LICENSE](https://github.com/ZJU-Fangyin/KANO/blob/main/LICENSE))
 
 # Transformer-based graphs for drug-drug interaction with chemical knowledge embedding
 
@@ -80,3 +79,6 @@ Run `graphpreprocess.py` to generate the molecular graph data. The output will b
     - Since these datasets include duplicate instances in train/validation/test split, merge the train/validation/test dataset.
     - Generate random negative counterparts by sampling a complement set of positive drug pairs as negatives.
     - Split the dataset into 6:2:2 ratio, and create separate csv file for each train/validation/test splits.
+
+## Representative high-risk molecular motifs and drugs identified by TRACE for different DDI types
+
