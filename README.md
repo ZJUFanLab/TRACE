@@ -81,6 +81,7 @@ Run `graphpreprocess.py` to generate the molecular graph data. The output will b
     - Split the dataset into 6:2:2 ratio, and create separate csv file for each train/validation/test splits.
 
 ## Representative high-risk molecular motifs and drugs identified by TRACE for different DDI types
+
 For each DDI type, we report the top-ranked molecular motifs identified by attention-based analysis in TRACE. Pair Count denotes the number of DDI pairs in which the motif appears among the top-ranked substructures of either drug, and Pair Coverage (%) represents the proportion of such pairs relative to all DDI pairs of that type. Example drugs are selected as the most frequently occurring drugs containing the corresponding motif within the given DDI type, and their molecular structures are shown for interpretability.
 
 | DDI Type | Motif (SMILES + Structure) | Pair Count | Pair Coverage (%) | Representative Drug ID(s) | Drug (Structure) |
