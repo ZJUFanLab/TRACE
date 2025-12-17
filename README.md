@@ -14,7 +14,7 @@ During the construction of molecular graphs, we embed the elemental information 
 
 After obtaining the KG-enhanced molecular graphs, we input them into the Graph Transformer module to further extract high-level representations of drug molecules. The Graph Transformer leverages self-attention mechanisms to dynamically aggregate local and global information within the graph, effectively capturing complex structural and chemical patterns critical for DDI prediction. The representations of two drug molecules are then concatenated and fed into a downstream multilayer perceptron (MLP), which is trained to predict DDIs.
 
-![overview.png](overview.png)
+![overview.png](overview_v2.png)
 
 ## Requirements
 
