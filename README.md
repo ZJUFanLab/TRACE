@@ -91,6 +91,201 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <th>Drug (Structure)</th>
   </tr>
   <tr>
+    <td colspan="3" align="left"><b>DDI Type 4【Metabolism】: The metabolism of #Drug2 can be increased when combined with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCNCN1<br><img src="motifsvgg/motif_9508.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00794<br>DB01174<br>DB00312</td>
+    <td align="center"><img src="smilessvg/DB00794.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01174.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00312.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00238<br>DB09280<br>DB01220</td>
+    <td align="center"><img src="smilessvg/DB00238.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09280.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01220.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00615<br>DB01074<br>DB11614</td>
+    <td align="center"><img src="smilessvg/DB00615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01074.svg" style="zoom:50%;" /><br><img src="smilessvg/DB11614.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left"><b>DDI Type 47【Metabolism】: The metabolism of #Drug2 can be decreased when combined with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00224<br>DB01026<br>DB00619</td>
+    <td align="center"><img src="smilessvg/DB00224.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01026.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00619.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
+    <td align="left">DB04868<br>DB00619<br>DB09054</td>
+    <td align="center"><img src="smilessvg/DB04868.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00619.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09054.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00951<br>DB00468<br>DB00608</td>
+    <td align="center"><img src="smilessvg/DB00951.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00468.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00608.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1=CC=CS1<br /><img src="motifsvgg/motif_t47.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00208<br />DB00758<br />DB00744</td>
+    <td align="center"><img src="smilessvg/DB00208.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00758.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00744.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C12=CC=CC=C1C=CC=N2<br /><img src="motifsvgg/motif_t472.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01232<br />DB00468<br />DB00608</td>
+    <td align="center"><img src="smilessvg/DB01232.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00468.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00608.svg" style="zoom:50%;" /></td>
+  </tr>
+    <tr>
+    <td colspan="3" align="left"><b>DDI Type 67【Metabolism】: #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.</b></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00467<br>DB01137<br>DB01044</td>
+    <td align="center"><img src="smilessvg/DB00467.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01137.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01044.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cSccN1<br><img src="motifsvgg/motif_5078.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01069<br>DB01614<br>DB01246</td>
+    <td align="center"><img src="smilessvg/DB01069.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01614.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01246.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01059<br>DB01208<br>DB00850</td>
+    <td align="center"><img src="smilessvg/DB01059.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01208.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00850.svg" style="zoom:50%;" /></td>
+  </tr>
+   <tr>
+    <td colspan="3" align="left"><b>DDI Type 77【Metabolism】: The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
+    <td align="left">DB04946<br>DB00615<br>DB00455</td>
+    <td align="center"><img src="smilessvg/DB04946.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00455.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01026<br>DB01263<br>DB01167</td>
+    <td align="center"><img src="smilessvg/DB01026.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01263.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00908<br>DB00967<br>DB09280</td>
+    <td align="center"><img src="smilessvg/DB00908.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00967.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09280.svg" style="zoom:50%;" /></td>
+  </tr>
+   <tr>
+    <td colspan="3" align="left"><b>DDI Type 13【Absorption】: The absorption of #Drug2 can be decreased when combined with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00251<br>DB01167<br>DB01263</td>
+    <td align="center"><img src="smilessvg/DB00251.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01263.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01188<br>DB01243<br>DB01422</td>
+    <td align="center"><img src="smilessvg/DB01188.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01243.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01422.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCOCC1<br><img src="motifsvgg/motif_8438.svg" style="zoom:60%;" /></td>
+    <td align="left">DB06697<br>DB00646</td>
+    <td align="center"><img src="smilessvg/DB06697.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00646.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left"><b>DDI Type 18【Absorption】: #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
+    <td align="left">DB06701<br>DB00422</td>
+    <td align="center"><img src="smilessvg/DB06701.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00422.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00884</td>
+    <td align="center"><img src="smilessvg/DB00884.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cscn1<br><img src="motifsvgg/motif_10862.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00927<br>DB00585</td>
+    <td align="center"><img src="smilessvg/DB00927.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00585.svg" style="zoom:50%;" /></td>
+  </tr>
+   <tr>
+    <td colspan="3" align="left"><b>DDI Type 73【Distribution】: The serum concentration of #Drug2 can be increased when it is combined with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB09073<br>DB00243<br>DB01149</td>
+    <td align="center"><img src="smilessvg/DB09073.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00243.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01149.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB09048<br>DB08881<br>DB01220</td>
+    <td align="center"><img src="smilessvg/DB09048.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08881.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01220.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
+    <td align="left">DB09330<br>DB01254<br>DB08864</td>
+    <td align="center"><img src="smilessvg/DB09330.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01254.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08864.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1(C=CC=C2)=C2OCO1<br /><img src="motifsvgg/motif_t72.svg" style="zoom:60%;" /></td>
+    <td align="left">DB09118<br />DB00715 <br />DB00820</td>
+    <td align="center"><img src="smilessvg/DB09118.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00715.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00820.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left"><b>DDI Type 75【Distribution】: The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.</b></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB09280<br>DB08881<br>DB00238</td>
+    <td align="center"><img src="smilessvg/DB09280.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08881.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00238.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
+    <td align="left">DB08864<br>DB06414<br>DB09330</td>
+    <td align="center"><img src="smilessvg/DB08864.svg" style="zoom:50%;" /><br><img src="smilessvg/DB06414.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09330.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01238<br>DB01167<br>DB00224</td>
+    <td align="center"><img src="smilessvg/DB01238.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00224.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left"><b>DDI Type 65【Excretion】: #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.</b></td>
+  </tr>
+  <tr>
+    <td align="center">c1cC2CCN[C@H](C1)C2<br><img src="motifsvgg/motif_1215.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01192<br>DB01466<br>DB00295</td>
+    <td align="center"><img src="smilessvg/DB01192.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01466.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00295.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1cOCC1<br><img src="motifsvgg/motif_8789.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01466<br>DB00318<br>DB00956</td>
+    <td align="center"><img src="smilessvg/DB01466.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00318.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00956.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
+    <td align="left">DB01081<br>DB00813<br>DB00454</td>
+    <td align="center"><img src="smilessvg/DB01081.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00813.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00454.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left"><b>DDI Type 72【Excretion】: #Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.</b></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCOCC1<br><img src="motifsvgg/motif_8438.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00684<br>DB03615<br>DB00452</td>
+    <td align="center"><img src="smilessvg/DB00684.svg" style="zoom:50%;" /><br><img src="smilessvg/DB03615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00452.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">C1CCOC1<br><img src="motifsvgg/motif_6928.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00452<br>DB01421</td>
+    <td align="center"><img src="smilessvg/DB00452.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01421.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
+    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
+    <td align="left">DB00469<br>DB04951<br>DB04552</td>
+    <td align="center"><img src="smilessvg/DB00469.svg" style="zoom:50%;" /><br><img src="smilessvg/DB04951.svg" style="zoom:50%;" /><br><img src="smilessvg/DB04552.svg" style="zoom:50%;" /></td>
+  </tr>
+  <tr>
     <td colspan="3" align="left"><b>DDI Type 1: #Drug1 may increase the photosensitizing activities of #Drug2.</b></td>
   </tr>
   <tr>
@@ -143,24 +338,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center">C1CCCC1<br><img src="motifsvgg/motif_4874.svg" style="zoom:60%;" /></td>
     <td align="left">DB04574<br>DB00588<br>DB08970</td>
     <td align="center"><img src="smilessvg/DB04574.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00588.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08970.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="left"><b>DDI Type 4: The metabolism of #Drug2 can be increased when combined with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCNCN1<br><img src="motifsvgg/motif_9508.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00794<br>DB01174<br>DB00312</td>
-    <td align="center"><img src="smilessvg/DB00794.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01174.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00312.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00238<br>DB09280<br>DB01220</td>
-    <td align="center"><img src="smilessvg/DB00238.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09280.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01220.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00615<br>DB01074<br>DB11614</td>
-    <td align="center"><img src="smilessvg/DB00615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01074.svg" style="zoom:50%;" /><br><img src="smilessvg/DB11614.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
     <td colspan="3" align="left"><b>DDI Type 5: #Drug1 may decrease the vasoconstricting activities of #Drug2.</b></td>
@@ -307,24 +484,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center"><img src="smilessvg/DB01395.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
-    <td colspan="3" align="left"><b>DDI Type 13: The absorption of #Drug2 can be decreased when combined with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00251<br>DB01167<br>DB01263</td>
-    <td align="center"><img src="smilessvg/DB00251.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01263.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01188<br>DB01243<br>DB01422</td>
-    <td align="center"><img src="smilessvg/DB01188.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01243.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01422.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCOCC1<br><img src="motifsvgg/motif_8438.svg" style="zoom:60%;" /></td>
-    <td align="left">DB06697<br>DB00646</td>
-    <td align="center"><img src="smilessvg/DB06697.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00646.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
     <td colspan="3" align="left"><b>DDI Type 14: #Drug1 may decrease the bronchodilatory activities of #Drug2.</b></td>
   </tr>
   <tr>
@@ -395,24 +554,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center">c1cOc2ccc(cc2)C[C@@H]2NCCc3ccc(cc32)Oc2cccc(c2)CC1<br><img src="motifsvgg/motif_4817.svg" style="zoom:60%;" /></td>
     <td align="left">DB01199</td>
     <td align="center"><img src="smilessvg/DB01199.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="left"><b>DDI Type 18: #Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
-    <td align="left">DB06701<br>DB00422</td>
-    <td align="center"><img src="smilessvg/DB06701.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00422.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00884</td>
-    <td align="center"><img src="smilessvg/DB00884.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cscn1<br><img src="motifsvgg/motif_10862.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00927<br>DB00585</td>
-    <td align="center"><img src="smilessvg/DB00927.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00585.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
     <td colspan="3" align="left"><b>DDI Type 19: #Drug1 may increase the vasoconstricting activities of #Drug2.</b></td>
@@ -919,34 +1060,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center"><img src="smilessvg/DB04861.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
-    <td colspan="3" align="left"><b>DDI Type 47: The metabolism of #Drug2 can be decreased when combined with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00224<br>DB01026<br>DB00619</td>
-    <td align="center"><img src="smilessvg/DB00224.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01026.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00619.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
-    <td align="left">DB04868<br>DB00619<br>DB09054</td>
-    <td align="center"><img src="smilessvg/DB04868.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00619.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09054.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00951<br>DB00468<br>DB00608</td>
-    <td align="center"><img src="smilessvg/DB00951.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00468.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00608.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1=CC=CS1<br /><img src="motifsvgg/motif_t47.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00208<br />DB00758<br />DB00744</td>
-    <td align="center"><img src="smilessvg/DB00208.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00758.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00744.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C12=CC=CC=C1C=CC=N2<br /><img src="motifsvgg/motif_t472.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01232<br />DB00468<br />DB00608</td>
-    <td align="center"><img src="smilessvg/DB01232.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00468.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00608.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
     <td colspan="3" align="left"><b>DDI Type 48: #Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.</b></td>
   </tr>
   <tr>
@@ -1253,24 +1366,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center"><img src="smilessvg/DB09209.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00854.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00652.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
-    <td colspan="3" align="left"><b>DDI Type 65: #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.</b></td>
-  </tr>
-  <tr>
-    <td align="center">c1cC2CCN[C@H](C1)C2<br><img src="motifsvgg/motif_1215.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01192<br>DB01466<br>DB00295</td>
-    <td align="center"><img src="smilessvg/DB01192.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01466.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00295.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cOCC1<br><img src="motifsvgg/motif_8789.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01466<br>DB00318<br>DB00956</td>
-    <td align="center"><img src="smilessvg/DB01466.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00318.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00956.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01081<br>DB00813<br>DB00454</td>
-    <td align="center"><img src="smilessvg/DB01081.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00813.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00454.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
     <td colspan="3" align="left"><b>DDI Type 66: The risk or severity of bleeding can be increased when #Drug1 is combined with #Drug2.</b></td>
   </tr>
   <tr>
@@ -1287,24 +1382,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center">C1=CNScc1<br><img src="motifsvgg/motif_2638.svg" style="zoom:60%;" /></td>
     <td align="left">DB00814<br>DB00554<br>DB06725</td>
     <td align="center"><img src="smilessvg/DB00814.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00554.svg" style="zoom:50%;" /><br><img src="smilessvg/DB06725.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="left"><b>DDI Type 67: #Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.</b></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00467<br>DB01137<br>DB01044</td>
-    <td align="center"><img src="smilessvg/DB00467.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01137.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01044.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cSccN1<br><img src="motifsvgg/motif_5078.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01069<br>DB01614<br>DB01246</td>
-    <td align="center"><img src="smilessvg/DB01069.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01614.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01246.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01059<br>DB01208<br>DB00850</td>
-    <td align="center"><img src="smilessvg/DB01059.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01208.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00850.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
     <td colspan="3" align="left"><b>DDI Type 68: #Drug1 may increase the hyperkalemic activities of #Drug2.</b></td>
@@ -1379,47 +1456,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center"><img src="smilessvg/DB00248.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00320.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00422.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
-    <td colspan="3" align="left"><b>DDI Type 72: #Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCOCC1<br><img src="motifsvgg/motif_8438.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00684<br>DB03615<br>DB00452</td>
-    <td align="center"><img src="smilessvg/DB00684.svg" style="zoom:50%;" /><br><img src="smilessvg/DB03615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00452.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCOC1<br><img src="motifsvgg/motif_6928.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00452<br>DB01421</td>
-    <td align="center"><img src="smilessvg/DB00452.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01421.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00469<br>DB04951<br>DB04552</td>
-    <td align="center"><img src="smilessvg/DB00469.svg" style="zoom:50%;" /><br><img src="smilessvg/DB04951.svg" style="zoom:50%;" /><br><img src="smilessvg/DB04552.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="left"><b>DDI Type 73: The serum concentration of #Drug2 can be increased when it is combined with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB09073<br>DB00243<br>DB01149</td>
-    <td align="center"><img src="smilessvg/DB09073.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00243.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01149.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB09048<br>DB08881<br>DB01220</td>
-    <td align="center"><img src="smilessvg/DB09048.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08881.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01220.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
-    <td align="left">DB09330<br>DB01254<br>DB08864</td>
-    <td align="center"><img src="smilessvg/DB09330.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01254.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08864.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1(C=CC=C2)=C2OCO1<br /><img src="motifsvgg/motif_t72.svg" style="zoom:60%;" /></td>
-    <td align="left">DB09118<br />DB00715 <br />DB00820</td>
-    <td align="center"><img src="smilessvg/DB09118.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00715.svg" style="zoom:50%;" /><br /><img src="smilessvg/DB00820.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
     <td colspan="3" align="left"><b>DDI Type 74: #Drug1 may increase the fluid retaining activities of #Drug2.</b></td>
   </tr>
   <tr>
@@ -1438,24 +1474,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center"><img src="smilessvg/DB01406.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
-    <td colspan="3" align="left"><b>DDI Type 75: The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB09280<br>DB08881<br>DB00238</td>
-    <td align="center"><img src="smilessvg/DB09280.svg" style="zoom:50%;" /><br><img src="smilessvg/DB08881.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00238.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1cncnc1<br><img src="motifsvgg/motif_3655.svg" style="zoom:60%;" /></td>
-    <td align="left">DB08864<br>DB06414<br>DB09330</td>
-    <td align="center"><img src="smilessvg/DB08864.svg" style="zoom:50%;" /><br><img src="smilessvg/DB06414.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09330.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01238<br>DB01167<br>DB00224</td>
-    <td align="center"><img src="smilessvg/DB01238.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00224.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
     <td colspan="3" align="left"><b>DDI Type 76: #Drug1 may decrease the sedative activities of #Drug2.</b></td>
   </tr>
   <tr>
@@ -1472,24 +1490,6 @@ For each DDI type, we report the top-ranked molecular motifs identified by atten
     <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
     <td align="left">DB00792<br>DB00719<br>DB00967</td>
     <td align="center"><img src="smilessvg/DB00792.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00719.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00967.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="left"><b>DDI Type 77: The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.</b></td>
-  </tr>
-  <tr>
-    <td align="center">C1CCNCC1<br><img src="motifsvgg/motif_2890.svg" style="zoom:60%;" /></td>
-    <td align="left">DB04946<br>DB00615<br>DB00455</td>
-    <td align="center"><img src="smilessvg/DB04946.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00615.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00455.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">C1CNCCN1<br><img src="motifsvgg/motif_3795.svg" style="zoom:60%;" /></td>
-    <td align="left">DB01026<br>DB01263<br>DB01167</td>
-    <td align="center"><img src="smilessvg/DB01026.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01263.svg" style="zoom:50%;" /><br><img src="smilessvg/DB01167.svg" style="zoom:50%;" /></td>
-  </tr>
-  <tr>
-    <td align="center">c1ccncc1<br><img src="motifsvgg/motif_110.svg" style="zoom:60%;" /></td>
-    <td align="left">DB00908<br>DB00967<br>DB09280</td>
-    <td align="center"><img src="smilessvg/DB00908.svg" style="zoom:50%;" /><br><img src="smilessvg/DB00967.svg" style="zoom:50%;" /><br><img src="smilessvg/DB09280.svg" style="zoom:50%;" /></td>
   </tr>
   <tr>
     <td colspan="3" align="left"><b>DDI Type 78: #Drug1 may increase the hyperglycemic activities of #Drug2.</b></td>
